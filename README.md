@@ -3,4 +3,9 @@ This project analyzes credit card transactions to detect fraudulent activity usi
 
 ## Dataset used
 <a href= "https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud">Dataset</a>
-- The dataset contains 284,807 transactions over 2 days (September 2013). All transactions are from European cardholders. The variable is Class → 0 = Non-fraud, 1 = Fraud.
+- The dataset contains 284,807 transactions over 2 days (September 2013)
+- The variable is Class → 0 = Non-fraud, 1 = Fraud
+
+## Key Insight
+<img width="1499" height="1199" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/7c94ac28-5013-4db8-9d81-7dc42fb95533" />
+
