@@ -10,12 +10,14 @@ This project analyzes credit card transactions to detect fraudulent activity usi
 <img width="1499" height="1199" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/7c94ac28-5013-4db8-9d81-7dc42fb95533" />
 
 - Fraud is rare (0.17%) but critical ,  the potential financial loss per fraud case is high
-- High-value fraud cases are spread across the timeline, suggesting attempts at different times instead of clustering at one point
 - Average fraudulent transactions are significantly higher in amount than non-fraudulent ones
+- High-value fraud cases are spread across the timeline, suggesting attempts at different times instead of clustering at one point
 - High fraud density despite average transaction volume = red flag
 - Hour 26 (after midnight) may be targeted times for attacks, possibly due to less monitoring or human oversight
 - High transaction volume (around ranges 20–23 and 35–39) doesn’t always mean high fraud, Fraudsters may exploit “quiet times” where total volume is low-to-average
 
+## Conclusion
+In just two days of transactions, fraud already shows significant financial risk which highlighting the need for banks to strengthen real-time detection, monitor mid-value transactions more closely to protect customer trust.
 
 
 
